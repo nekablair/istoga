@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **neka@nekablair.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/taneka-blair-39528b147/](in/taneka-blair)
+- 📄 Know about my experiences [https://www.linkedin.com/taneka-blair-39528b147/](in/taneka-blair)
 
 - ⚡ Fun fact **I dived off a high cliff on a whim once.**
 
