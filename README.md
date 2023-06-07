@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS and Tailwind**
 
-- 👨‍💻 All of my projects are available at [www.nekablair.com](www.nekablair.com)
+- 👨‍💻 All of my projects are available at [https://www.nekablair.com](www.nekablair.com)
 
 - 📝 I regularly write articles on [https://neka.hashnode.dev/](https://neka.hashnode.dev/)
 
