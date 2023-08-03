@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/nekathedev" target="blank"><img src="https://img.shields.io/twitter/follow/nekathedev?logo=twitter&style=for-the-badge" alt="nekathedev" /></a> </p>
 
-- 🔭 I’m currently working on [FindYourPeople](https://github.com/AritDeveloperCircle/findyourpeople)
+- 🎮 I'm currently working on fun side projects, like coding simple games in JavaScript with my kids.
+
+- 🔭 My latest large project was [FindYourPeople](https://github.com/AritDeveloperCircle/findyourpeople)
 
 - 🌱 I’m currently learning **NextJS and Tailwind**
 
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **neka@nekablair.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/taneka-blair-39528b147](https://www.linkedin.com/in/taneka-blair)
+- 📄 Know about my experiences [https://www.linkedin.com/in/taneka-blair-39528b147](https://www.linkedin.com/in/taneka-blair)
 
 - ⚡ Fun fact **I dived off a high cliff on a whim once.**
 
